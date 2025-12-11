@@ -14,7 +14,7 @@ Generative model for synthesizing CT from MRI to support radiotherapy dose plann
 - Trained and evaluated GAN architectures (PSNR, SSIM, structural metrics)  
 - Achieved a 2.5% improvement in anatomical preservation compared to baseline  
 
-Repository / Report: *(Add link)*  
+Repository / Report: coming soon   
 Technologies: PyTorch, GANs, Medical Imaging
 
 ---
@@ -55,6 +55,15 @@ End-to-end sentiment analysis workflow integrating language identification, tran
 
 Repository: https://github.com/yaghmo/sentiment_analysis  
 Technologies: Python, Transformers, NLP
+
+---
+
+## Research Interests
+- Computer Vision and Image Understanding  
+- Medical Imaging and Scientific Computing  
+- Generative Modeling (GANs, diffusion models)  
+- Large Language Models and conversational AI  
+- Multimodal AI systems  
 
 ---
 
