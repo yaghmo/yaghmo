@@ -25,7 +25,7 @@ A modular conversational interface supporting inference from multiple LLM backen
 - Designed multilingual handling for real-time translation and interaction  
 - Built with modular architecture for future model integration  
 
-Repository: https://github.com/yaghmo/chatbot
+Repository: https://github.com/yaghmo/chatbot  
 Technologies: Python, Streamlit, Hugging Face Transformers
 
 ---
@@ -35,7 +35,7 @@ Comparative study of segmentation architectures for lung region extraction.
 - U-Net, DeepLabV3, and FCNN under identical training and evaluation settings  
 - Evaluation using Dice, IoU, and boundary metrics  
 
-Repository: https://github.com/yaghmo/U_Net-DeepLabV3-FCNN-lung-segmentation
+Repository: https://github.com/yaghmo/U_Net-DeepLabV3-FCNN-lung-segmentation  
 Technologies: PyTorch, Computer Vision
 
 ---
@@ -53,7 +53,7 @@ Technologies: YOLOv8, SORT, NumPy, OpenCV
 ### Multilingual Sentiment Analysis System
 End-to-end sentiment analysis workflow integrating language identification, translation, classification, and LLM-based summarization.
 
-Repository: https://github.com/yaghmo/sentiment_analysis 
+Repository: https://github.com/yaghmo/sentiment_analysis  
 Technologies: Python, Transformers, NLP
 
 ---
