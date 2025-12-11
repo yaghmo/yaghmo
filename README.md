@@ -19,7 +19,7 @@ Technologies: PyTorch, GANs, Medical Imaging
 
 ---
 
-### Multi-Model Chatbot (Streamlit)
+### Multi-Model Chatbot 
 A modular conversational interface supporting inference from multiple LLM backends.  
 - Implemented token streaming, temperature/top-p tuning, and model switching  
 - Designed multilingual handling for real-time translation and interaction  
