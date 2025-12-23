@@ -14,7 +14,7 @@ Generative model for synthesizing CT from MRI to support radiotherapy dose plann
 - Trained and evaluated GAN architectures (PSNR, SSIM, structural metrics)  
 - Achieved a 2.5% improvement in anatomical preservation compared to baseline  
 
-Repository / Report: coming soon   
+Repository / Report: [mri-to-ct-synthesis-gan](https://github.com/yaghmo/mri-to-ct-synthesis-gan)   
 Technologies: PyTorch, GANs, Medical Imaging
 
 ---
@@ -25,7 +25,7 @@ A modular conversational interface supporting inference from multiple LLM backen
 - Designed multilingual handling for real-time translation and interaction  
 - Built with modular architecture for future model integration  
 
-Repository: https://github.com/yaghmo/chatbot  
+Repository: [chatbot](https://github.com/yaghmo/chatbot)  
 Technologies: Python, Streamlit, Hugging Face Transformers
 
 ---
@@ -35,7 +35,7 @@ Comparative study of segmentation architectures for lung region extraction.
 - U-Net, DeepLabV3, and FCNN under identical training and evaluation settings  
 - Evaluation using Dice, IoU, and boundary metrics  
 
-Repository: https://github.com/yaghmo/U_Net-DeepLabV3-FCNN-lung-segmentation  
+Repository: [U_Net-DeepLabV3-FCNN-lung-segmentation](https://github.com/yaghmo/U_Net-DeepLabV3-FCNN-lung-segmentation)  
 Technologies: PyTorch, Computer Vision
 
 ---
@@ -45,7 +45,7 @@ Real-time pipeline combining YOLOv8 detection with SORT tracking.
 - Extraction of spatial interaction descriptors (distance, direction, relative motion)  
 - Framework supports downstream tasks such as scene understanding or activity prediction  
 
-Repository: https://github.com/yaghmo/yolov8-sort-detection-tracking-segmentation-force-histogram-banner-cnn  
+Repository: [yolov8-sort-detection-tracking-segmentation-force-histogram-banner-cnn](https://github.com/yaghmo/yolov8-sort-detection-tracking-segmentation-force-histogram-banner-cnn)  
 Technologies: YOLOv8, SORT, NumPy, OpenCV
 
 ---
@@ -53,7 +53,7 @@ Technologies: YOLOv8, SORT, NumPy, OpenCV
 ### Multilingual Sentiment Analysis System
 End-to-end sentiment analysis workflow integrating language identification, translation, classification, and LLM-based summarization.
 
-Repository: https://github.com/yaghmo/sentiment_analysis  
+Repository: [sentiment_analysis](https://github.com/yaghmo/sentiment_analysis)  
 Technologies: Python, Transformers, NLP
 
 ---
@@ -84,5 +84,12 @@ Python, C, C++
 ---
 
 ## Contact  
-LinkedIn: https://www.linkedin.com/in/belmir-yaghmoracen/  
-Email: yaghmo.belmir@gmail.com
+<a href="https://www.linkedin.com/in/belmir-yaghmoracen/" target="_blank">
+  <img width="52" height="52" alt="linkedin"
+       src="https://github.com/user-attachments/assets/8dd53c10-9989-445c-9e8e-4083889a3ea0" />
+</a>
+<br>
+
+<a href="mailto:yaghmo.belmir@gmail.com" target="_blank">
+<img width="52" height="52" alt="yaghmo.belmir@gmail.com" src="https://github.com/user-attachments/assets/506691cf-f436-4012-98e8-d0c3c0e79095" />
+</a><br>(yaghmo.belmir@gmail.com)
