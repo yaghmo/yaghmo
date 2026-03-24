@@ -19,14 +19,15 @@ Technologies: PyTorch, GANs, Medical Imaging
 
 ---
 
-### Multi-Model Chatbot 
-A modular conversational interface supporting inference from multiple LLM backends.  
-- Implemented token streaming, temperature/top-p tuning, and model switching  
-- Designed multilingual handling for real-time translation and interaction  
-- Built with modular architecture for future model integration  
-
+### Multi-Model Chatbot
+A local AI assistant supporting multiple LLMs and VLMs with document Q&A, voice input, and multimodal chat.
+- Built a RAG pipeline with ChromaDB and multilingual embeddings for document retrieval over PDF, DOCX, XLSX, PPTX and more
+- Integrated local speech-to-text transcription via faster-whisper with automatic language detection
+- Designed a FastAPI backend with streaming inference, parallel model loading, and automatic context summarization
+- Containerized with Docker and CUDA support for GPU inference
+  
 Repository: [chatbot](https://github.com/yaghmo/chatbot)  
-Technologies: Python, Streamlit, Hugging Face Transformers
+Technologies: Python, FastAPI, Streamlit, Transformers, ChromaDB, Docker
 
 ---
 
