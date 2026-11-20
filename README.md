@@ -1,5 +1,6 @@
 # Yaghmoracen Belmir
-AI Engineer | LLM and RAG, Computer Vision, Audio | PyTorch | I measure what I build
+AI Engineer | LLM and RAG, Computer Vision, Audio | PyTorch | I measure what I build  
+Portfolio: [yaghmoracen-belmir.vercel.app](https://yaghmoracen-belmir.vercel.app)
 
 I build end-to-end AI systems across language, vision and audio, and I measure them: a baseline, a fixed sample, and the failures read one by one.  
 My experience includes medical imaging research, applied deep learning, and building production-oriented AI applications.
